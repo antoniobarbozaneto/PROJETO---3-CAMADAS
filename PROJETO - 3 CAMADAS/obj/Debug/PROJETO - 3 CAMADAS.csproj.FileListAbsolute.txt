@@ -1,0 +1,135 @@
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2013\Projects\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.exe.config
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2013\Projects\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csprojResolveAssemblyReference.cache
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2013\Projects\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Properties.Resources.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2013\Projects\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csproj.GenerateResource.Cache
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2013\Projects\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.exe
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2013\Projects\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.pdb
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2013\Projects\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.exe
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2013\Projects\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.pdb
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2013\Projects\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Form_inicio.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2013\Projects\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_cadastrocliente.resources
+C:\Users\NETO\source\repos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.exe.config
+C:\Users\NETO\source\repos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.exe
+C:\Users\NETO\source\repos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.pdb
+C:\Users\NETO\source\repos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csprojAssemblyReference.cache
+C:\Users\NETO\source\repos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_cadastrocliente.resources
+C:\Users\NETO\source\repos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Form_inicio.resources
+C:\Users\NETO\source\repos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Properties.Resources.resources
+C:\Users\NETO\source\repos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csproj.GenerateResource.cache
+C:\Users\NETO\source\repos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csproj.CoreCompileInputs.cache
+C:\Users\NETO\source\repos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.exe
+C:\Users\NETO\source\repos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.pdb
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.exe.config
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.exe
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.pdb
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csprojAssemblyReference.cache
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_cadastrocliente.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Form_inicio.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Properties.Resources.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csproj.GenerateResource.cache
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csproj.CoreCompileInputs.cache
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.exe
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.pdb
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_consultacliente.resources
+C:\Users\NETO\Documents\Visual Studio 2019\Projetos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.exe.config
+C:\Users\NETO\Documents\Visual Studio 2019\Projetos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.exe
+C:\Users\NETO\Documents\Visual Studio 2019\Projetos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.pdb
+C:\Users\NETO\Documents\Visual Studio 2019\Projetos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csprojAssemblyReference.cache
+C:\Users\NETO\Documents\Visual Studio 2019\Projetos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_cadastrocliente.resources
+C:\Users\NETO\Documents\Visual Studio 2019\Projetos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_consultacliente.resources
+C:\Users\NETO\Documents\Visual Studio 2019\Projetos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Form_inicio.resources
+C:\Users\NETO\Documents\Visual Studio 2019\Projetos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Properties.Resources.resources
+C:\Users\NETO\Documents\Visual Studio 2019\Projetos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csproj.GenerateResource.cache
+C:\Users\NETO\Documents\Visual Studio 2019\Projetos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csproj.CoreCompileInputs.cache
+C:\Users\NETO\Documents\Visual Studio 2019\Projetos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.exe
+C:\Users\NETO\Documents\Visual Studio 2019\Projetos\PROJETO - 3 CAMADAS\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.pdb
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 19-06\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.exe.config
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 19-06\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.exe
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 19-06\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.pdb
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 19-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csprojAssemblyReference.cache
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 19-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_cadastrocliente.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 19-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_consultacliente.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 19-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Form_inicio.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 19-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Properties.Resources.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 19-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csproj.GenerateResource.cache
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 19-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csproj.CoreCompileInputs.cache
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 19-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.exe
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 19-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.pdb
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 21-06\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.exe.config
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 21-06\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.exe
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 21-06\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.pdb
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 21-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csprojAssemblyReference.cache
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 21-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_cadastrocliente.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 21-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_consultacliente.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 21-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Form_inicio.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 21-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Properties.Resources.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 21-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csproj.GenerateResource.cache
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 21-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csproj.CoreCompileInputs.cache
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 21-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.exe
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 21-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.pdb
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 21-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_Login.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 23-06\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.exe.config
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 23-06\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.exe
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 23-06\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.pdb
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 23-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csprojAssemblyReference.cache
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 23-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_cadastrocliente.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 23-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_consultacliente.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 23-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Form_inicio.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 23-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_login.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 23-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Properties.Resources.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 23-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csproj.GenerateResource.cache
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 23-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csproj.CoreCompileInputs.cache
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 23-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.exe
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 23-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.pdb
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 23-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_cadastrousuario.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 23-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_consultausuario.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 26-06\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.exe.config
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 26-06\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.exe
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 26-06\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.pdb
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 26-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csprojAssemblyReference.cache
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 26-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_cadastrocliente.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 26-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_cadastrousuario.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 26-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_consultacliente.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 26-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_consultausuario.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 26-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Form_inicio.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 26-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_login.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 26-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Properties.Resources.resources
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 26-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csproj.GenerateResource.cache
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 26-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csproj.CoreCompileInputs.cache
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 26-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.exe
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 26-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.pdb
+C:\Users\NETO PANIGASSI\Documents\Visual Studio 2019\Templates\ProjectTemplates\PROJETO - 3 CAMADAS 26-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_cadastrofornecedor.resources
+C:\Users\NETO\Downloads\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.exe.config
+C:\Users\NETO\Downloads\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.exe
+C:\Users\NETO\Downloads\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.pdb
+C:\Users\NETO\Downloads\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csprojAssemblyReference.cache
+C:\Users\NETO\Downloads\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_cadastrocliente.resources
+C:\Users\NETO\Downloads\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_cadastrofornecedor.resources
+C:\Users\NETO\Downloads\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_cadastrousuario.resources
+C:\Users\NETO\Downloads\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_consultacliente.resources
+C:\Users\NETO\Downloads\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_consultausuario.resources
+C:\Users\NETO\Downloads\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Form_inicio.resources
+C:\Users\NETO\Downloads\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_login.resources
+C:\Users\NETO\Downloads\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Properties.Resources.resources
+C:\Users\NETO\Downloads\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csproj.GenerateResource.cache
+C:\Users\NETO\Downloads\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csproj.CoreCompileInputs.cache
+C:\Users\NETO\Downloads\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.exe
+C:\Users\NETO\Downloads\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.pdb
+C:\Users\NETO\Downloads\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_consultafornecedor.resources
+C:\Users\neto_\Downloads\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.exe.config
+C:\Users\neto_\Downloads\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.exe
+C:\Users\neto_\Downloads\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\bin\Debug\PROJETO - 3 CAMADAS.pdb
+C:\Users\neto_\Downloads\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csprojAssemblyReference.cache
+C:\Users\neto_\Downloads\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_cadastrocliente.resources
+C:\Users\neto_\Downloads\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_cadastrofornecedor.resources
+C:\Users\neto_\Downloads\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_cadastrousuario.resources
+C:\Users\neto_\Downloads\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_consultacliente.resources
+C:\Users\neto_\Downloads\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_consultafornecedor.resources
+C:\Users\neto_\Downloads\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_consultausuario.resources
+C:\Users\neto_\Downloads\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Form_inicio.resources
+C:\Users\neto_\Downloads\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Apresentação.Form_login.resources
+C:\Users\neto_\Downloads\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO___3_CAMADAS.Properties.Resources.resources
+C:\Users\neto_\Downloads\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csproj.GenerateResource.cache
+C:\Users\neto_\Downloads\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.csproj.CoreCompileInputs.cache
+C:\Users\neto_\Downloads\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.exe
+C:\Users\neto_\Downloads\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 30-06\PROJETO - 3 CAMADAS 29-06\PROJETO - 3 CAMADAS\obj\Debug\PROJETO - 3 CAMADAS.pdb
